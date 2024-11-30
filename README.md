@@ -18,6 +18,7 @@
 ![react](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=white)
 ![react](https://img.shields.io/badge/-React%20Query-FF4154?&style=for-the-badge&logo=react%20query&logoColor=white)
 ![react](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 **🛠️ Infra and Tools**
